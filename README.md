@@ -1,1 +1,2 @@
-# somacontabilidade-documentation
+# documentation
+repository for allocating Soma Contabilidade documentation
